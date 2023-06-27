@@ -1,0 +1,17 @@
+C:\Users\ddmli\source\repos\tes3CMD_Cleaner\tes3CMD_Cleaner\bin\Debug\net6.0-windows\tes3CMD_Cleaner.exe
+C:\Users\ddmli\source\repos\tes3CMD_Cleaner\tes3CMD_Cleaner\bin\Debug\net6.0-windows\tes3CMD_Cleaner.deps.json
+C:\Users\ddmli\source\repos\tes3CMD_Cleaner\tes3CMD_Cleaner\bin\Debug\net6.0-windows\tes3CMD_Cleaner.runtimeconfig.json
+C:\Users\ddmli\source\repos\tes3CMD_Cleaner\tes3CMD_Cleaner\bin\Debug\net6.0-windows\tes3CMD_Cleaner.dll
+C:\Users\ddmli\source\repos\tes3CMD_Cleaner\tes3CMD_Cleaner\bin\Debug\net6.0-windows\tes3CMD_Cleaner.pdb
+C:\Users\ddmli\source\repos\tes3CMD_Cleaner\tes3CMD_Cleaner\obj\Debug\net6.0-windows\tes3CMD_Cleaner.csproj.AssemblyReference.cache
+C:\Users\ddmli\source\repos\tes3CMD_Cleaner\tes3CMD_Cleaner\obj\Debug\net6.0-windows\tes3CMD_Cleaner.Form1.resources
+C:\Users\ddmli\source\repos\tes3CMD_Cleaner\tes3CMD_Cleaner\obj\Debug\net6.0-windows\tes3CMD_Cleaner.csproj.GenerateResource.cache
+C:\Users\ddmli\source\repos\tes3CMD_Cleaner\tes3CMD_Cleaner\obj\Debug\net6.0-windows\tes3CMD_Cleaner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddmli\source\repos\tes3CMD_Cleaner\tes3CMD_Cleaner\obj\Debug\net6.0-windows\tes3CMD_Cleaner.AssemblyInfoInputs.cache
+C:\Users\ddmli\source\repos\tes3CMD_Cleaner\tes3CMD_Cleaner\obj\Debug\net6.0-windows\tes3CMD_Cleaner.AssemblyInfo.cs
+C:\Users\ddmli\source\repos\tes3CMD_Cleaner\tes3CMD_Cleaner\obj\Debug\net6.0-windows\tes3CMD_Cleaner.csproj.CoreCompileInputs.cache
+C:\Users\ddmli\source\repos\tes3CMD_Cleaner\tes3CMD_Cleaner\obj\Debug\net6.0-windows\tes3CMD_Cleaner.dll
+C:\Users\ddmli\source\repos\tes3CMD_Cleaner\tes3CMD_Cleaner\obj\Debug\net6.0-windows\refint\tes3CMD_Cleaner.dll
+C:\Users\ddmli\source\repos\tes3CMD_Cleaner\tes3CMD_Cleaner\obj\Debug\net6.0-windows\tes3CMD_Cleaner.pdb
+C:\Users\ddmli\source\repos\tes3CMD_Cleaner\tes3CMD_Cleaner\obj\Debug\net6.0-windows\tes3CMD_Cleaner.genruntimeconfig.cache
+C:\Users\ddmli\source\repos\tes3CMD_Cleaner\tes3CMD_Cleaner\obj\Debug\net6.0-windows\ref\tes3CMD_Cleaner.dll
